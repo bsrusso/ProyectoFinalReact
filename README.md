@@ -2,7 +2,6 @@
 
 ### Visita la aplicación acá:
 `<link>` : <https://bsrusso.github.io/ProyectoFinalReact>
-Recomendación: Para la corrección se recomienda correr la app localmente.
 
 -----------
 
