@@ -17,6 +17,7 @@ function App() {
           <Navbar />
           <Routes>
             <Route path="/" element={<ItemListContainer />} />
+            <Route path="/ProyectoFinalReact" element={<ItemListContainer />} /> //added only to deploy in github pages
             <Route path="/item/:id" element={<ItemDetailContainer />} />
             <Route path="/category/:categoryID" element={<ItemListContainer />} />
             <Route path="/cart" element={<Cart />} />
