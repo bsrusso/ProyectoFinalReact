@@ -38,7 +38,7 @@ const ItemDetail = ({ item }) => {
                                 <br />
                             </Link>
                         )}
-                        <Link to='/DesafioClase12ReactCoder'>
+                        <Link to='/'>
                             <button type='button' className='btn btn-danger mt-2 btnSize'>
                                 Volver
                             </button>
