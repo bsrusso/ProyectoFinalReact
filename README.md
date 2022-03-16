@@ -10,8 +10,13 @@
 
 -----------
 
-### Dependencias:
- - asdasdasd
+### Clona el repositorio:
+
+Corre el proyecto con el comando:
+
+```
+npm start
+```
 
 -----------
 ### Vistas del proyecto:
