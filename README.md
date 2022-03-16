@@ -48,3 +48,13 @@ npm start
 	 - [x] Bootstrap v5.1.3
 - [x] CSS
 - [x] Firebase v.9.6.7
+
+
+-----------
+
+### Informacion adicional:
+ - Autor: Brian Sebastian Russo.
+ - Academia: CoderHouse (https://www.coderhouse.com/)
+ - Comision: 19830
+ - Profesor: Alex Marin Mendez (https://www.linkedin.com/in/alexmarinmendez)
+
