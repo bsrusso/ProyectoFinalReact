@@ -1,7 +1,7 @@
 # Proyecto final React.JS CoderHouse
 
 ### Visita la aplicación acá:
-`<link>` : <https://bsrusso.github.io/>
+`<link>` : <https://bsrusso.github.io/ProyectoFinalReact>
 
 -----------
 
